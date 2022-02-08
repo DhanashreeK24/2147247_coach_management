@@ -1,9 +1,7 @@
 
-var employees=[
-        {name:'Rithul',dob:new Date("July 21,1990"),gender:"Male",city:'Pune',tournamentName:'FIFA',level:2,salary:50000.779},
-        {name:'Raj',dob:new Date("October 24,2000"),gender:"Male",city:'Mumbai',tournamentName:'Pakistan Super League',level:3,salary:75000.700},
-        {name:'Ranjan',dob:new Date("June 28,1999"),gender:"Male",city:'Hyderabad',tournamentName:'BigBash',level:4,salary:80000.657},
-        {name:'Roohi',dob:new Date("January 18,2007"),gender:"Female",city:'Chennai',tournamentName:'',level:5,salary:45000.555},
-        {name:'Ramesh',dob:new Date("August 10,2014"),gender:"Male",city:'Kerala',tournamentName:'FIFA',level:6,salary:25000.779},
-        {name:'Zen',dob:new Date("February 08,2016"),gender:"Male",city:'Goa',tournamentName:'FIFA',level:7,salary:58000.779}
-    ];
+{"employees" :[
+        {"name":"Rithul","dob":"06-21-1990","gender":"Male","city":"Pune","tournamentName":"FIFA","level":"2","salary":"50000.779"},
+        {"name":"Raj","dob":"10-24-2000","gender":"Male","city":"Mumbai","tournamentName":"Pakistan SuperLeague","level":"3","salary":"75000.700"},
+        {"name":"Ranjan","dob":"05-28-1999","gender":"Male","city":"Hyderabad","tournamentName":"BigBash","level":"4","salary":"80000.657"}
+        
+    ]}
