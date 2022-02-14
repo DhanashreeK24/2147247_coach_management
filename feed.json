@@ -1,5 +1,6 @@
 [
     
 
-	{ "id":1, "name":"Brad Pitt", "dop":"January 31 2022","gender":"Male", "location":"Bangalore", "tname":"Balcot case", "level":2}
+	{ "id":1, "name":"Brad Pitt", "dop":"January 31 2022","gender":"Male", "location":"Bangalore", "tname":"Balcot case", "level":2},
+	{"id":2,"name":"Raj","dop":"February 12 2022","gender":"Male","location":"Mumbai","tname":"Pakistan SuperLeague","level":3}
 ]
