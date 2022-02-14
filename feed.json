@@ -2,5 +2,10 @@
     
 
 	{ "id":1, "name":"Brad Pitt", "dop":"January 31 2022","gender":"Male", "location":"Bangalore", "tname":"Balcot case", "level":2},
-	{"id":2,"name":"Raj","dop":"February 12 2022","gender":"Male","location":"Mumbai","tname":"Pakistan SuperLeague","level":3}
+	{"id":2,"name":"Raj","dop":"February 12 2022","gender":"Male","location":"Mumbai","tname":"Pakistan SuperLeague","level":3},
+	{"id":3,"name":"Rajashree","dop":"March 10 2022","gender":"Female","location":"Bangalore","tname":"BigBash","level":1},
+	{"id":4,"name":"SRK","dop":"January 12 2022","gender":"Female","location":"Hyderabad","tname":"FIFA 2016","level":3},
+	{"id":5,"name":"Adam Sandler","dop":"April 1 2022","gender":"male","location":"Chennai","tname":"FIFA 2017","level":3},
+	{"id":6,"name":"Chris Evans","dop":"April 2 2022","gender":"male","location":"Pune","tname":"FIFA 2018","level":2}
+	
 ]
