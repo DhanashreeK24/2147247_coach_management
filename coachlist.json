@@ -1,7 +1,7 @@
 
-{"employees" :[
+[
         {"name":"Rithul","dob":"06-21-1990","gender":"Male","city":"Pune","tournamentName":"FIFA","level":"2","salary":"50000.779"},
         {"name":"Raj","dob":"10-24-2000","gender":"Male","city":"Mumbai","tournamentName":"Pakistan SuperLeague","level":"3","salary":"75000.700"},
         {"name":"Ranjan","dob":"05-28-1999","gender":"Male","city":"Hyderabad","tournamentName":"BigBash","level":"4","salary":"80000.657"}
         
-    ]}
+  ]
