@@ -1,5 +1,5 @@
-[
-    
+{"feedinfo":
+ [    
 
 	{ "id":1, "name":"Brad Pitt", "dop":"January 31 2022","gender":"Male", "location":"Bangalore", "tname":"Balcot case", "level":2},
 	{"id":2,"name":"Raj","dop":"February 12 2022","gender":"Male","location":"Mumbai","tname":"Pakistan SuperLeague","level":3},
@@ -9,3 +9,4 @@
 	{"id":6,"name":"Chris Evans","dop":"April 2 2022","gender":"male","location":"Pune","tname":"FIFA 2018","level":2}
 	
 ]
+}
